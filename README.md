@@ -1,6 +1,6 @@
 - Atividade Landing page Desenvolvimento Web, grupo: Ohana, Kauan Santos, Vitor, Vitória e Thiago Yokoyama
 
-cores:
+- cores:
     verde escuro: #005B41,
     roxo escuro: #230444,
     roxo claro: #504099,
@@ -9,6 +9,6 @@ cores:
     cinza: #352F44.
 
 
-TEMA: HALLOWEEN.CO - Evento de festa de halloween.
+- TEMA: HALLOWEEN.CO - Evento de festa de halloween.
 
-RESUMO: O site tem como objetivo a divulgação e venda de ingressos de umas festa fantasia de halloween fictícia, separado nas seções: inicio: onde tem uma breve apresentação do conteúdo, informativos: parte do site que possui todas as informações relevantes de forma complexa, ingressos: local onde é realizada a compra de ingressos para a festa e contatos: um rodapé que possui os contatos da HALLOWEEN.CO, um formulario de contato e as redes sociais. 
+- RESUMO: O site tem como objetivo a divulgação e venda de ingressos de umas festa fantasia de halloween fictícia, separado nas seções: inicio: onde tem uma breve apresentação do conteúdo, informativos: parte do site que possui todas as informações relevantes de forma complexa, ingressos: local onde é realizada a compra de ingressos para a festa e contatos: um rodapé que possui os contatos da HALLOWEEN.CO, um formulario de contato e as redes sociais. 
