@@ -1,3 +1,5 @@
+- Atividade Landing page Desenvolvimento Web, grupo: Ohana, Kauan Santos, Vitor, Vitória e Thiago Yokoyama
+
 cores:
     verde escuro: #005B41,
     roxo escuro: #230444,
