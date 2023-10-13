@@ -109,6 +109,33 @@ p{
     color:#FFE6C7;
 }
 
+.depoimentos{
+    height: 90vh;
+    background: #504099;
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.depoimentosContent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.imgDepoimento{
+    height: 250px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.349);
+}
+
+.pDepoimento{
+    max-width: 360px;
+    color:#FFE6C7;
+}
+
 .ingressos{
     background: rgb(35,4,68);
     background: linear-gradient(0deg, rgba(35,4,68,1) 0%, rgba(35,4,68,1) 82%, rgba(80,64,153,1) 100%);
