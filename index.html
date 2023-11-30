@@ -6,37 +6,8 @@
     <title>Halloween.co</title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="//use.fontawesome.com/releases/v6.4.2/css/all.css">
-
-    <script>
-        function scrollInicio() {
-            window.scrollTo({
-                top: 0,
-                behavior: 'smooth',
-            });
-        }
-
-
-        function scrollInfo() {
-            window.scrollTo({
-                top: 700,
-                behavior: 'smooth',
-            });
-        }
-
-        function scrollIng() {
-            window.scrollTo({
-                top: 1700,
-                behavior: 'smooth',
-            });
-        }
-
-        function scrollContatos() {
-            window.scrollTo({
-                top: 5500,
-                behavior: 'smooth',
-            });
-        }
-    </script>
+    <script src="./scripts/script.js"></script>
+        
 </head>
 <body>
     <header>
@@ -146,13 +117,14 @@
         </div>
         <div class="forms">
             <h3>Nos envie uma mensagem:</h3>
-            <form>
-                <p>Email</p>
-                <input type="text">
-                <p>Mensagem</p>
-                <textarea cols="24" rows="5"></textarea>
+            <form onsubmit="sendMessage()">
+                <p>Email:</p>
+                <input type="text" id="email">
+                <p>Mensagem:</p>
+                <textarea cols="24" rows="5" id="message"></textarea>
+                <button class="submit">Enviar</button>
+
             </form>
-            <button class="submit">Enviar</button>
             
         </div>
         <div class="footerDiv">
